@@ -1,0 +1,50 @@
+# Flutter related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.cvs/
+
+# O/S specific
+.DS_Store
+*.log
+
+# IntelliJ / Android Studio related
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+.history/
+
+# macOS related
+*.DS_Store
+
+# Android related
+android/app/debug.keystore
+**/*.jks
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+/gradle/
+/local.properties
+/.gradle/
+/android/key.properties
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+/ios/Podfile.lock
+ios/.symlinks/
+/ios/Flutter/Flutter.xcconfig
+ios/Runner.xcworkspace/
+*.xcuserstate
+*.xcworkspace
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/flutter_assets/
